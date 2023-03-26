@@ -1,4 +1,4 @@
-# programming assment
+# programming assessment
 # By Josh
 
 # burger ordering system
